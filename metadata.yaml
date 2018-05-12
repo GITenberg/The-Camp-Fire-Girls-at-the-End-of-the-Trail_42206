@@ -1,0 +1,32 @@
+_repo: The-Camp-Fire-Girls-at-the-End-of-the-Trail_42206
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42206-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2013-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Societies and clubs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Western stories'
+- !lcsh 'Hiking -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcsh 'Grand Canyon (Ariz.) -- Description and travel -- Juvenile fiction'
+title: The Camp Fire Girls at the End of the Trail
+url: http://www.gutenberg.org/ebooks/42206
